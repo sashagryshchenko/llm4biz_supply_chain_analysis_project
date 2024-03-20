@@ -1,0 +1,1045 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-17192165-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-17192165-1", {"groups":"default","anonymize_ip":true,"allow_ad_personalization_signals":false,"page_path":"/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer});gtag("config", "G-MFMY1F6D3V", {"groups":"default","allow_ad_personalization_signals":false,"page_location":"/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer});gtag("config", "G-GS1KB7R8DY", {"groups":"default","allow_ad_personalization_signals":false,"page_location":"/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer});</script>
+<link rel="canonical" href="https://www.energy.gov/" />
+<link rel="shortlink" href="https://www.energy.gov/" />
+<meta name="generator" content="Drupal 8 (http://drupal.org)" />
+<link rel="image_src" href="http://energy.gov/sites/prod/files/DOE_Seal_Color_042808.png" />
+<meta property="og:url" content="https://www.energy.gov/eere/fuelcells/articles/fuel-cell-and-battery-electric-vehicles-compared%2520-O%2520data/ev_energy_source/fuel-cell-and-battery-electric-vehicles-compared" />
+<meta property="og:title" content="Department of Energy" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Page not found" />
+<meta name="twitter:url" content="https://www.energy.gov/eere/fuelcells/articles/fuel-cell-and-battery-electric-vehicles-compared%2520-O%2520data/ev_energy_source/fuel-cell-and-battery-electric-vehicles-compared" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/particle/apps/drupal/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Department of Energy</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_AFG1bcmSKoTp5zEfTq7I-RWdfYJpvWZeZXfEQ1KdX8A.css?delta=0&amp;language=en&amp;theme=particle&amp;include=eJx9UVlywyAMvRBjjsQILBM1LC4SSbl95bGdpTPp31uE9CRmEEgwsFmPF7hRbWxCbWi_vju2seNaAu6IimArkKbddp0MFmxxuFDVKmIPij-SqFzNojLckWtG-4InvsX_vIkvlE2sNSZ0oAOHUGD7VzA8WDBbD4xmhaZaekR_8C35ky04awPXwQnEp3zkhhCQmTwlkmGOLezc-qpLn0udtZ9zeRQ9lF5hrazzFkpKtW57CemTDV2q4-4zyTkj40xgQ2epebvxQrE3dD7VcN1NEy7apLhE3u7wUM7Ub-JL2RRYD0iCd5o1e8Im-r8kvy-50fw" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_qU7HhDCI5Gr_75JgHo4ovS2Fypu8Ix6LonX3Ws4EdRk.css?delta=1&amp;language=en&amp;theme=particle&amp;include=eJx9UVlywyAMvRBjjsQILBM1LC4SSbl95bGdpTPp31uE9CRmEEgwsFmPF7hRbWxCbWi_vju2seNaAu6IimArkKbddp0MFmxxuFDVKmIPij-SqFzNojLckWtG-4InvsX_vIkvlE2sNSZ0oAOHUGD7VzA8WDBbD4xmhaZaekR_8C35ky04awPXwQnEp3zkhhCQmTwlkmGOLezc-qpLn0udtZ9zeRQ9lF5hrazzFkpKtW57CemTDV2q4-4zyTkj40xgQ2epebvxQrE3dD7VcN1NEy7apLhE3u7wUM7Ub-JL2RRYD0iCd5o1e8Im-r8kvy-50fw" />
+
+    <script src="/sites/default/files/js/js_-Xn6Y2uHdkytMdKt13dD6xqU5yXknpTH4KjwuXP-kW0.js?scope=header&amp;delta=0&amp;language=en&amp;theme=particle&amp;include=eJx9UVlywyAMvRBjjsQILBM1LC4SSbl95bGdpTPp31uE9CRmEEgwsFmPF7hRbWxCbWi_vju2seNaAu6IimArkKbddp0MFmxxuFDVKmIPij-SqFzNojLckWtG-4InvsX_vIkvlE2sNSZ0oAOHUGD7VzA8WDBbD4xmhaZaekR_8C35ky04awPXwQnEp3zkhhCQmTwlkmGOLezc-qpLn0udtZ9zeRQ9lF5hrazzFkpKtW57CemTDV2q4-4zyTkj40xgQ2epebvxQrE3dD7VcN1NEy7apLhE3u7wUM7Ub-JL2RRYD0iCd5o1e8Im-r8kvy-50fw"></script>
+<script src="https://kit.fontawesome.com/24bc2d8eeb.js" defer crossorigin="anonymous"></script>
+<script src="https://use.fontawesome.com/releases/v6.1.0/js/v4-shims.js" defer crossorigin="anonymous"></script>
+
+  </head>
+  <body>
+        <a href="#main-content" class="visually-hidden focusable" tabindex="1">
+      Skip to main content
+    </a>
+    <div data-sitewide-alert></div>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<div class="body-inner overlay-main">
+  <div class="overlay-body">
+      <div class="layout-container">
+
+    <header role="banner">
+
+            
+<div class="utility-menu">
+  <div class="utility-outer">
+
+              
+    
+      
+
+
+
+
+<div class="accordion nav-wrapper nav-wrapper--mainoffice nav-wrapper--top">
+      <div class="nav-inner">
+    <nav class="nav nav--mainoffice nav--utility nav--top"  >
+                                              
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/national-laboratories"   >National Labs</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/offices"   >Offices</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/careers/jobs"   >Careers</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/newsroom"   >Newsroom</a>
+      </li>
+                                                  
+
+
+
+
+
+<li class="dropdown dropdown--hover nav-item" >
+                                      
+
+
+
+
+
+        <a  class="" href=/about-us>
+    About
+      </a>
+                    
+              
+    <div class="child-menu">
+    <span class="menu-parent">About</span>
+      <ul class="dropdown-menu dropdown-menu--parent" >
+                <div class="menu">
+        
+          
+          <li class="dropdown-item dropdown-item--first dropdown-item--firstparent dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/lm/doe-history">                History
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/organization-chart">                Organization Chart
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/careers/jobs">                Work with Us
+              </a>            
+                                                            
+
+          </li>
+
+              </div>
+            </ul>
+    </div>
+  </li>
+                            </nav>
+  </div>
+</div>
+
+
+          
+<div class="social-bar-utility">
+  <div class="social-bar-networks-utility">
+                                      
+      <a href="https://www.facebook.com/energy" title="Link to Facebook" aria-label="Link to Facebook">
+        <span class="social-bar-icon fa-brands fa-facebook-f"></span>
+        <span class="social-bar-networks-label">Facebook</span>
+      </a>
+                                      
+      <a href="https://twitter.com/energy" title="Link to Twitter" aria-label="Link to Twitter">
+        <span class="social-bar-icon fa-brands fa-twitter"></span>
+        <span class="social-bar-networks-label">Twitter</span>
+      </a>
+                                      
+      <a href="https://www.youtube.com/user/USdepartmentofenergy" title="Link to Youtube" aria-label="Link to Youtube">
+        <span class="social-bar-icon fa-brands fa-youtube"></span>
+        <span class="social-bar-networks-label">Youtube</span>
+      </a>
+                                      
+      <a href="https://www.instagram.com/energy" title="Link to Instagram" aria-label="Link to Instagram">
+        <span class="social-bar-icon fa-brands fa-instagram"></span>
+        <span class="social-bar-networks-label">Instagram</span>
+      </a>
+                                      
+      <a href="https://www.linkedin.com/company/u-s--department-of-energy" title="Link to Linkedin" aria-label="Link to Linkedin">
+        <span class="social-bar-icon fa-brands fa-linkedin-in"></span>
+        <span class="social-bar-networks-label">Linkedin</span>
+      </a>
+      </div>
+</div>
+    
+  </div>
+</div>
+
+  
+
+              
+
+<nav role="navigation" aria-labelledby="main-nav"  class="navbar navbar--mainoffice">
+  <div class="navbar-outer" id="main-nav">
+          <div class="navbar-sitename">
+                  <div class="navbar-sitename-content">
+            <a href="/">
+              
+
+  
+<img src="/themes/particle/dist/app-drupal/assets/energy_crest.png" alt="Energy.Gov logo" class="image img-fluid" />
+
+            </a>
+          </div>
+              </div>
+          
+              <div class="navbar-main">
+                              <div class="navbar-search">
+                <form class="navbar-search-form" data-bef-auto-submit-full-form="" data-bef-auto-submit="" data-bef-auto-submit-delay="500" data-drupal-selector="views-exposed-form-search-page-1" action="/search/site" method="get" id="views-exposed-form-search-page-1" accept-charset="UTF-8">
+  
+<div class="form-group js-form-item form-item js-form-type-search form-item-keywords js-form-item-keywords form-no-label">
+      <label class="visually-hidden" for="edit-keywords">Enter the terms you wish to search for.</label>
+        <input data-bef-auto-submit-exclude="" data-drupal-selector="edit-keywords" type="text" id="edit-keywords" name="keywords" value="" size="30" maxlength="128" class="form-text navbar-search-input" placeholder="Search" aria-label="Search" autocorrect="off" autocapitalize="none" />
+
+        </div>
+
+<div class="form-group js-form-item form-item js-form-type-select form-item-sort-by js-form-item-sort-by">
+      <label for="edit-sort-by">Sort by</label>
+        <select data-drupal-selector="edit-sort-by" id="edit-sort-by" name="sort_by" class="form-select"><option value="search_api_relevance" selected="selected">Relevance</option><option value="date">Date</option></select>
+        </div>
+
+<div data-drupal-selector="edit-actions" class="form-actions form-group" id="edit-actions"><input data-bef-auto-submit-click="" class="js-hide button js-form-submit form-submit" data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="SEARCH" />
+</div>
+
+
+</form>
+
+            </div>
+                  
+              
+
+  <div class="navbar-overlay navbar-overlay--main overlay">
+    <div class="navbar-inner overlay-inner">
+                        
+<h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+
+
+  
+  
+
+
+
+<div class="accordion nav-wrapper nav-wrapper--mainoffice nav-wrapper--nav nav-wrapper--top">
+        <div class="header-mobile-home">
+      <a href="/" class="">Energy.gov Home</a>
+    </div>
+    <div class="nav-inner">
+    <nav class="nav nav--dropdown-menu nav--keyboard-navigation nav--mainoffice navbar-nav nav--main nav--top"  >
+                                                                    
+
+
+
+
+
+<li class="dropdown dropdown--hover nav-item" tabindex="2">
+                                      
+
+
+
+
+
+        <a  class="" href=/science-innovation tabindex=1>
+    Science &amp; Innovation
+      </a>
+                    
+              
+    <div class="child-menu">
+    <span class="menu-parent">Science &amp; Innovation</span>
+      <ul class="dropdown-menu dropdown-menu--parent" >
+                <div class="menu">
+        
+          
+          <li class="dropdown-item dropdown-item--first dropdown-item--firstparent dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/energy-sources">                Energy Sources
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/clean-energy">                Clean Energy
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/eere/energy-efficiency-buildings-and-industry">                Energy Efficiency
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/artificial-intelligence-and-technology-office">                Artificial Intelligence
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/climate-change">                Climate Change
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/vehicles">                Vehicles
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/doe-stem/doe-stem">                STEM
+              </a>            
+                                                            
+
+          </li>
+
+              </div>
+            </ul>
+    </div>
+  </li>
+                                                                        
+
+
+
+
+
+<li class="dropdown dropdown--hover nav-item" tabindex="2">
+                                      
+
+
+
+
+
+        <a  class="" href=/energy-economy tabindex=1>
+    Energy Economy
+      </a>
+                    
+              
+    <div class="child-menu">
+    <span class="menu-parent">Energy Economy</span>
+      <ul class="dropdown-menu dropdown-menu--parent" >
+                <div class="menu">
+        
+          
+          <li class="dropdown-item dropdown-item--first dropdown-item--firstparent dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/prices-trends">                Prices & Trends
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/funding-financing">                Funding & Financing
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/federal-state-local-government">                Federal, State & Local Government
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/manufacturing">                Advanced Manufacturing
+              </a>            
+                                                            
+
+          </li>
+
+              </div>
+            </ul>
+    </div>
+  </li>
+                                                                        
+
+
+
+
+
+<li class="dropdown dropdown--hover nav-item" tabindex="2">
+                                      
+
+
+
+
+
+        <a  class="" href=/national-security-safety tabindex=1>
+    Security &amp; Safety
+      </a>
+                    
+              
+    <div class="child-menu">
+    <span class="menu-parent">Security &amp; Safety</span>
+      <ul class="dropdown-menu dropdown-menu--parent" >
+                <div class="menu">
+        
+          
+          <li class="dropdown-item dropdown-item--first dropdown-item--firstparent dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/nnsa/national-nuclear-security-administration">                Nuclear Security
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/cybersecurity">                Cybersecurity
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/environmental-cleanup">                Environmental Cleanup
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/emergency-response">                Emergency Response
+              </a>            
+                                                            
+
+          </li>
+
+              </div>
+            </ul>
+    </div>
+  </li>
+                                                                        
+
+
+
+
+
+<li class="dropdown dropdown--hover nav-item" tabindex="2">
+                                      
+
+
+
+
+
+  
+
+
+<a href="/save" class="icon icon icon-energy-saver" href=/save tabindex=1>
+  <span>Save Energy, Save Money</span>
+</a>
+                  
+              
+    <div class="child-menu">
+    <span class="menu-parent">Save Energy, Save Money</span>
+      <ul class="dropdown-menu dropdown-menu--parent" >
+                <div class="menu">
+        
+          
+          <li class="dropdown-item dropdown-item--first dropdown-item--firstparent dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/energysaver/heating-and-cooling">                Heating & Cooling
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/energysaver/weatherization">                Weatherization
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/energysaver/windows-doors-and-skylights">                Windows, Doors & Skylights
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/energysaver/design">                Design & Remodeling
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/energysaver/save-electricity-and-fuel">                Electricity & Fuel
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/energysaver/energy-saver-guide-tips-saving-money-and-energy-home">                Start Saving
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/energysaver/insulation">                Insulation
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/energysaver/air-sealing-your-home">                Sealing Your Home
+              </a>            
+                                                            
+
+          </li>
+
+        
+          
+          <li class="dropdown-item dropdown-item--grandparent nav-item nav-link">
+
+          
+                                      
+                                        <a href="/energysaver/ventilation">                Ventilation
+              </a>            
+                                                            
+
+          </li>
+
+              </div>
+            </ul>
+    </div>
+  </li>
+                            </nav>
+  </div>
+</div>
+
+
+
+          </div>
+  </div>
+
+        </div>
+    
+          <div class="navbar-suffix">
+        
+
+  
+  
+
+
+        <button type=submit class="btn btn-outline-primary navbar-search-show navbar-suffix-button"  aria-label=submit>
+    <span class="hidden">button</span>
+      </button>
+          
+
+
+
+  
+  
+
+
+        <button type=submit class="btn btn-outline-primary navbar-menu-show navbar-suffix-button overlay-reveal overlayTarget-navbar-overlay--main"  aria-label=submit>
+    <span class="hidden">button</span>
+      </button>
+        </div>
+      </div>
+
+  </nav>
+
+      
+                        </header>
+
+          <div data-drupal-messages-fallback class="hidden"></div>
+
+  
+
+        
+
+    <main class="container" role="main">
+      <a id="main-content" tabindex="-1"></a>      <section class="row">
+
+                  <aside class="layout-content-top">
+                  
+  
+          </aside>
+        
+          <div class="layout-content">
+            
+<div class="content-wrapper">
+                                            
+                        <div id="block-particle-content" class="block block-system block-system-main-block">
+          
+        
+              The requested page could not be found.
+      </div>
+
+  
+                              </div>
+          </div>
+
+        
+      </section>
+    </main>
+
+  </div>
+      
+
+<footer class="footer footer--mainoffice" role="contentinfo">
+  <div class="footer-inner-wrapper">
+    <div class="footer-inner--left footer-inner">
+                                                  
+<div class="footer-info">
+  
+
+  
+<img src="/themes/particle/dist/app-drupal/assets/energy_white.png" alt="" class="image img-fluid" />
+
+
+
+  <p>
+    
+<div class="field field--text_default field--field_formatted_contact_info">
+  
+      
+                            <div><p>1000 Independence Ave. SW<br />
+Washington DC 20585<br />
+202-586-5000</p></div>
+                  
+      </div>
+
+  </p>
+
+  
+<div class="social-bar">
+    <div class="social-bar-email">
+    <a href="https://public.govdelivery.com/accounts/USDOE/subscriber/new?category_id=USDOE_C1">Sign Up for Email Updates</a>
+  </div>
+    <div class="social-bar-networks">
+                              
+              <a href="https://www.facebook.com/energy" aria-label="Link to facebook">
+          <span class="social-bar-icon fa-brands fa-facebook-f"></span>
+          <span class="social-bar-networks-label">Facebook</span>
+        </a>
+                                    
+              <a href="https://twitter.com/energy" aria-label="Link to x">
+          <span class="social-bar-icon fa-brands fa-x-twitter"></span>
+          <span class="social-bar-networks-label">Twitter</span>
+        </a>
+                                    
+              <a href="https://www.youtube.com/user/USdepartmentofenergy" aria-label="Link to youtube">
+          <span class="social-bar-icon fa-brands fa-youtube"></span>
+          <span class="social-bar-networks-label">Youtube</span>
+        </a>
+                                    
+              <a href="https://www.instagram.com/energy" aria-label="Link to instagram">
+          <span class="social-bar-icon fa-brands fa-instagram"></span>
+          <span class="social-bar-networks-label">Instagram</span>
+        </a>
+                                    
+              <a href="https://www.linkedin.com/company/u-s--department-of-energy" aria-label="Link to linkedin">
+          <span class="social-bar-icon fa-brands fa-linkedin-in"></span>
+          <span class="social-bar-networks-label">Linkedin</span>
+        </a>
+            </div>
+</div>
+
+</div>
+      
+              <div class="footer-inner-block">
+          
+
+
+
+<div class="accordion nav-wrapper nav-wrapper--mainoffice">
+      <h4 class="nav-title">
+              <a href="/">About energy.gov</a>
+          </h4>
+      <div class="nav-inner">
+    <div class="nav nav--mainoffice"  >
+                                              
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/lm/doe-history"   >History</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/doe-stem/doe-stem"   >DOE STEM</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/careers/jobs"   >Careers</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/contact-us"   >Contact Us</a>
+      </li>
+                            </div>
+  </div>
+</div>
+        </div>
+          </div>
+
+    <div class="footer-inner--right footer-inner">
+                        <div class="footer-inner-block">
+            
+
+
+
+<div class="accordion nav-wrapper nav-wrapper--mainoffice">
+      <h4 class="nav-title">
+              <a href="https://www.energy.gov">Energy.gov Resources</a>
+          </h4>
+      <div class="nav-inner">
+    <div class="nav nav--mainoffice"  >
+                                              
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/budget-performance"   >Budget &amp; Performance</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/covid/coronavirus-doe-response"   >Covid-19 Response</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="https://www.directives.doe.gov"   >Directives, Delegations &amp; Requirements</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/management/freedom-information-act"   >FOIA</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/ig/office-inspector-general"   >Inspector General</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/cio/privacy-program"   >Privacy Program</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/osdbu/office-small-and-disadvantaged-business-utilization"   >Small Business</a>
+      </li>
+                            </div>
+  </div>
+</div>
+          </div>
+                  <div class="footer-inner-block">
+            
+
+
+
+<div class="accordion nav-wrapper nav-wrapper--mainoffice">
+      <h4 class="nav-title">
+              <a href="https://www.energy.gov">Federal Government</a>
+          </h4>
+      <div class="nav-inner">
+    <div class="nav nav--mainoffice"  >
+                                              
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="https://www.whitehouse.gov"   >The White House</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="https://www.usa.gov"   >USA.gov</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="https://vote.gov/"   >Vote.gov</a>
+      </li>
+                            </div>
+  </div>
+</div>
+          </div>
+                  </div>
+  </div>
+
+  <div class="footer-bottom">
+          
+
+
+
+<div class="accordion nav-wrapper nav-wrapper--suboffice">
+      <div class="nav-inner">
+    <ul class="nav nav--suboffice"  >
+                                              
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/web-policies"   >Web Policies</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/about-us/web-policies/privacy"   >Privacy</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/justice/no-fear-act-data"   >No Fear Act</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/whistleblower-protection-and-nondisclosure-agreements"   >Whistleblower Protection</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/justice/notice-equal-employment-opportunity-eeo-findings-discrimination-harassment-andor"   >Notice of EEO Findings of Discrimination</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/cio/department-energy-information-quality-guidelines"   >Information Quality</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/open-government"   >Open Gov</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="/cio/accessibility-standard-statement"   >Accessibility</a>
+      </li>
+                                                  
+
+
+
+
+  <li class="nav-item">
+          <a class="nav-link" href="https://doe.responsibledisclosure.com/hc/en-us"   >Vulnerability Disclosure Program</a>
+      </li>
+                            </ul>
+  </div>
+</div>
+      </div>
+</footer>
+  
+    </div>
+</div>
+
+  </div>
+
+    <script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"","siteName":"Department of Energy","userUid":0});</script>
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0}}},"external_link_popup":{"whitelist":"","width":"85%","popups":[{"id":"default","name":"Default","status":true,"weight":10,"close":true,"title":"You Are Now Leaving This Site","body":"\u003Cp\u003EWould you like to leave this site?\u003C\/p\u003E\n","labelyes":"OK","labelno":"Cancel","domains":"*","target":"_self"}]},"google_analytics":{"account":"UA-17192165-1","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":true,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"\\.gov","extInclude":"isExternalResource","extCssExclude":"footer, .social-bar-utility, .media-type-image, .energy-social-links","extCssExplicit":"","extAlert":true,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"energyAnalytics":{"accounts":["UA-17192165-1"],"pageTitle":"Page not found","settings":[["_setAccount","UA-17192165-1"],["_trackPageview"],["_setDomainName",".energy.gov"]]},"ajaxTrustedUrl":{"\/search\/site":true},"chosen":{"selector":"select:visible:not(.dynamic-entity-reference-entity-type,[name^=\u0022DataTables\u0022])","minimum_single":0,"minimum_multiple":0,"minimum_width":0,"use_relative_width":false,"options":{"disable_search":false,"disable_search_threshold":0,"allow_single_deselect":false,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","max_shown_results":null,"inherit_select_classes":true}},"sitewideAlert":{"refreshInterval":15000,"automaticRefresh":true},"user":{"uid":0,"permissionsHash":"caa3cd3b8e2006daeeabd57cc12f48b3e9d8c9ca770b27bfdc57222e0f906eb2"}}</script>
+<script src="/sites/default/files/js/js_Te6vKmCi8ximeDt2XL7ipbAOfK1jKJoDTqBuLTF2i4o.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=particle&amp;include=eJx9UVlywyAMvRBjjsQILBM1LC4SSbl95bGdpTPp31uE9CRmEEgwsFmPF7hRbWxCbWi_vju2seNaAu6IimArkKbddp0MFmxxuFDVKmIPij-SqFzNojLckWtG-4InvsX_vIkvlE2sNSZ0oAOHUGD7VzA8WDBbD4xmhaZaekR_8C35ky04awPXwQnEp3zkhhCQmTwlkmGOLezc-qpLn0udtZ9zeRQ9lF5hrazzFkpKtW57CemTDV2q4-4zyTkj40xgQ2epebvxQrE3dD7VcN1NEy7apLhE3u7wUM7Ub-JL2RRYD0iCd5o1e8Im-r8kvy-50fw"></script>
+<script src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOE" async defer id="_fed_an_ua_tag"></script>
+<script src="/sites/default/files/js/js_14M6_4pWlbQZiVWAgwT3w0k99py5vY5VWOFanmB-4e4.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=particle&amp;include=eJx9UVlywyAMvRBjjsQILBM1LC4SSbl95bGdpTPp31uE9CRmEEgwsFmPF7hRbWxCbWi_vju2seNaAu6IimArkKbddp0MFmxxuFDVKmIPij-SqFzNojLckWtG-4InvsX_vIkvlE2sNSZ0oAOHUGD7VzA8WDBbD4xmhaZaekR_8C35ky04awPXwQnEp3zkhhCQmTwlkmGOLezc-qpLn0udtZ9zeRQ9lF5hrazzFkpKtW57CemTDV2q4-4zyTkj40xgQ2epebvxQrE3dD7VcN1NEy7apLhE3u7wUM7Ub-JL2RRYD0iCd5o1e8Im-r8kvy-50fw"></script>
+
+  </body>
+</html>

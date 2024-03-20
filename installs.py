@@ -11,4 +11,17 @@
 %pip install pandasai[langchain]
 ###%pip install --extra-index-url https://testpypi.python.org/pypi poirot.
 %pip install -q pandasai openai
+%pip install langchain pypdf langchain-openai
+%pip install llama-index --upgrade
+%pip install seaborn
+#tiktoken chromadb #not sure this is needed
+
+# %%
+%pip install cURL
+# %%
+%pip install nest-asyncio
+%pip install pypdf
+%pip install llama-index-llms-openai
+
+
 # %%

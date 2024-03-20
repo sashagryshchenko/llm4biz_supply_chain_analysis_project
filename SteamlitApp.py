@@ -5,6 +5,7 @@ import EnvSettings as settings
 openai_key = settings.set_key()
 from openai import OpenAI
 import Tech16FinalProject_supplychains as deb
+import Visualizations as vis
 from utils import *
 deb.do_imports()
 # %%
@@ -41,12 +42,13 @@ options_lst = [option_1 , option_2, option_3, option_4]
 st.write('');st.write('');st.write('**Export Format**')
 option_csv_format = st.checkbox('.csv') 
 option_json_format = st.checkbox('.json')
-
+option_graph_format = st.checkbox('.png')
 if option_csv_format:
     option_csv_format = '.csv'
 if option_json_format:
     option_json_format = '.json'
-
+if option_graph_format:
+    option_json_format = '.png'
 
 
 col1, col2, col3 , col4, col5 = st.columns(5)
@@ -65,6 +67,16 @@ if center_button:
     print(subject)
     print(impacts)
     print(options_lst)
+    import streamlit as st
+    import matplotlib.pyplot as plt
+    import numpy as np
+
+    arr = np.random.normal(1, 1, size=100)
+    fig, ax = plt.subplots()
+    ax.hist(arr, bins=20)
+    plot = vis.plotResults()
+    st.pyplot(plot)
+    
 
 
 
@@ -79,12 +91,14 @@ if center_button & option_4:
             prompt = f"Summarize {impacts[j]} impacts of {subject[i]}"
             ###table_out =get_summary(prompt)
             table_out = deb.gptrequest(prompt)
-            save_file(table_out ,output_path , impacts[j] , subject[i], option_csv_format)
+            print(table_out)
+            vis.efficiencyComparison()
+            ###save_file(table_out ,output_path , impacts[j] , subject[i], option_csv_format)
 
-            if len(subject) > 1:
-                prompt = f"create a table of a comparison between {impacts[j]} impacts of {subject[0]} vs {subject[1]}"
-                table_out = get_comparison(prompt)
-                save_file(table_out ,output_path , impacts[j] , 'comparison-EC-FCC', option_csv_format)
+            #if len(subject) > 1:
+            #    prompt = f"create a table of a comparison between {impacts[j]} impacts of {subject[0]} vs {subject[1]}"
+            #    table_out = get_comparison(prompt)
+            #    save_file(table_out ,output_path , impacts[j] , 'comparison-EC-FCC', option_csv_format)
 
 
 # %%

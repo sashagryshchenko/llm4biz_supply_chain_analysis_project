@@ -76,7 +76,7 @@ def Environmental_Impacts():
   from pandasai import SmartDataframe
   from pandasai.llm import OpenAI
   sdf = SmartDataframe
-  df = pd.DataFrame(response)
+  ###df = pd.DataFrame(response)
   ###df.plot(x='fuelCellCars', y='electricVehicles', kind='scatter')
   ###df.sort_values(by=['aspect'], inplace=True)
   ###plt.show()
@@ -95,9 +95,8 @@ def Supply_Chain_Elements_Comparison():
   from pandasai import SmartDataframe
   from pandasai.llm import OpenAI
 
-  df = pd.DataFrame(response)
   from pandasai import SmartDataframe
   from pandasai.llm import OpenAI
   sdf = SmartDataframe
-  df = pd.DataFrame(response)
+  ###df = sdf..DataFrame(response)
   print(table_out)
