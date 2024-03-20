@@ -77,7 +77,16 @@ if center_button:
     plot = vis.plotResults()
     st.pyplot(plot)
     
-
+    plot = vis.envireImpactComparison()
+    st.pyplot(plot)
+    plot = vis.efficiencyComparison()
+    st.pyplot(plot)
+    vis.envireImpactElementsComparison()
+    st.pyplot(plot)
+    vis.supplyChainComparison()
+    st.pyplot(plot)
+    vis.suppyChainElementComparison()
+    st.pyplot(plot)
 
 
 

@@ -137,17 +137,17 @@ def filesRefs():
     r =getFileReq('https://www.energy.gov/eere/fuelcells/articles/fuel-cell-and-battery-electric-vehicles-compared -O data/ev_energy_source/fuel-cell-and-battery-electric-vehicles-compared')
     r =getFileReq('https://www.hydrogen.energy.gov/docs/hydrogenprogramlibraries/pdfs/review23/fc353_james_2023_o-pdf.pdf  -O data/ev_energy_source/fc353_james_2023_o-pdf.pdf')
     r =getFileReq('https://escholarship.org/content/qt1g89p8dn/qt1g89p8dn_noSplash_e15c9e67dd1aab914d70e37a56cb70da.pdf?t=rg5613 -O data/ev_energy_source/qt1g89p8dn_noSplash_e15c9e67dd1aab914d70e37a56cb70da.pdf?t=rg5613')
-    r =getFileReq('https://www.researchgate.net/journal/Energy-Technology-2194-4296/publication/341918035_Hydrogen_Fuel_Cell_Vehicle_Development_in_China_An_Industry_Chain_Perspective/links/619d50f2d7d1af224b1fdd50/Hydrogen-Fuel-Cell-Vehicle-Development-in-China-An-Industry-Chain-Perspective.pdf -O data/ev_energy_source/Hydrogen-Fuel-Cell-Vehicle-Development-in-China-An-Industry-Chain-Perspective.pdf')   
-    r =getFileReq('https://www.mdpi.com/2032-6653/14/9/262/pdf?version=1695025567 -O data/ev_energy_source/pdf?version=1695025567')
-    r =getFileReq('https://www.researchgate.net/profile/Philipp-Reims/publication/365267244_ScienceDirect_Fuel_cell_system_production_cost_modeling_and_analysis/links/636cbd1c431b1f53008755b5/ScienceDirect-Fuel-cell-system-production-cost-modeling-and-analysis.pdf -O data/ev_energy_source/pdfft?md5=178a0ab35b1a29a2992ded6bbfd32c6b&pid=1-s2.0-S2352484722022995-main.pdf')
-    r =getFileReq('https://www.researchgate.net/profile/Assia-Chadly/publication/354393953_Economics_of_the_Li-ion_Batteries_and_Reversible_Fuel_Cells_as_Energy_Storage_Systems_when_Coupled_with_Dynamic_Electricity_Pricing_Schemes/links/648ad96c7fcc811dcdce5f89/Economics-of-the-Li-ion-Batteries-and-Reversible-Fuel-Cells-as-Energy-Storage-Systems-when-Coupled-with-Dynamic-Electricity-Pricing-Schemes.pdf -O data/ev_energy_source/pdfft?md5=a6ae75e573ed603fe2be61b809aadfeb&pid=1-s2.0-S0360544221021897-main.pdf')
+    #r =getFileReq('https://www.researchgate.net/journal/Energy-Technology-2194-4296/publication/341918035_Hydrogen_Fuel_Cell_Vehicle_Development_in_China_An_Industry_Chain_Perspective/links/619d50f2d7d1af224b1fdd50/Hydrogen-Fuel-Cell-Vehicle-Development-in-China-An-Industry-Chain-Perspective.pdf -O data/ev_energy_source/Hydrogen-Fuel-Cell-Vehicle-Development-in-China-An-Industry-Chain-Perspective.pdf')   
+    #r =getFileReq('https://www.mdpi.com/2032-6653/14/9/262/pdf?version=1695025567 -O data/ev_energy_source/pdf?version=1695025567')
+    #r =getFileReq('https://www.researchgate.net/profile/Philipp-Reims/publication/365267244_ScienceDirect_Fuel_cell_system_production_cost_modeling_and_analysis/links/636cbd1c431b1f53008755b5/ScienceDirect-Fuel-cell-system-production-cost-modeling-and-analysis.pdf -O data/ev_energy_source/pdfft?md5=178a0ab35b1a29a2992ded6bbfd32c6b&pid=1-s2.0-S2352484722022995-main.pdf')
+    #r =getFileReq('https://www.researchgate.net/profile/Assia-Chadly/publication/354393953_Economics_of_the_Li-ion_Batteries_and_Reversible_Fuel_Cells_as_Energy_Storage_Systems_when_Coupled_with_Dynamic_Electricity_Pricing_Schemes/links/648ad96c7fcc811dcdce5f89/Economics-of-the-Li-ion-Batteries-and-Reversible-Fuel-Cells-as-Energy-Storage-Systems-when-Coupled-with-Dynamic-Electricity-Pricing-Schemes.pdf -O data/ev_energy_source/pdfft?md5=a6ae75e573ed603fe2be61b809aadfeb&pid=1-s2.0-S0360544221021897-main.pdf')
     r =getFileReq('https://link.springer.com/content/pdf/10.1007/s10311-021-01322-8.pdf -O data/ev_energy_source/s10311-021-01322-8.pdf')
     r =getFileReq('https://hydrogencouncil.com/wp-content/uploads/2020/01/Path-to-Hydrogen-Competitiveness_Full-Study-1.pdf -O data/ev_energy_source/Path-to-Hydrogen-Competitiveness_Full-Study-1.pdf')
     r =getFileReq('https://www.ourenergypolicy.org/wp-content/uploads/2017/05/1-s2.0-S1364032117305580-main.pdf -O data/ev_energy_source/1-s2.0-S1364032117305580-main.pdf')
     r =getFileReq('https://dspace.mit.edu/bitstream/handle/1721.1/104912/11367_2015_Article_986.pdf -O data/ev_energy_source/11367_2015_Article_986.pdf')
     r =getFileReq('https://iopscience.iop.org/article/10.1088/1748-9326/aae9b1/pdf -O data/ev_energy_source/pdf')
     r =getFileReq('https://wikirate.s3.amazonaws.com/files/784785/12677380.pdf -O data/ev_energy_source/12677380.pdf')
-    r =getFileReq('https://www.mdpi.com/2076-3417/9/11/2296/pdf?version=1559636127 -O data/ev_energy_source/pdf?version=1559636127')
+    #r =getFileReq('https://www.mdpi.com/2076-3417/9/11/2296/pdf?version=1559636127 -O data/ev_energy_source/pdf?version=1559636127')
     r =getFileReq('https://www.doitpoms.ac.uk/tlplib/fuel-cells/printall.php -O data/ev_energy_source/printall.php')
 
     import os
@@ -158,10 +158,9 @@ def filesRefs():
     
     #Colab (2 lines)
     #from google.colab import userdata
-    #os.environ["OPENAI_API_KEY"] = openai_key)
+    os.environ["OPENAI_API_KEY"] = openai_key
 
     # Import necessary classes from the llama_index package
-    from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
     from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
     #Class 5 and
     #https://colab.research.google.com/github/run-llama/llama_index/blob/main/docs/examples/agent/openai_agent_with_query_engine.ipynb
@@ -175,7 +174,7 @@ def filesRefs():
         setdir = os.getcwd()
         print("Curr dir for getting Simple dir",setdir)
         try:
-            reader = SimpleDirectoryReader(setdir,recursive=True)
+            reader = SimpleDirectoryReader('/Users/davidebrown/Google Drive/DEBSupplyChainRepository/llm4biz_supply_chain_analysis_project/data/ev_energy_source/')
             documents = reader.load_data()
             print("Loaded docuents object from dir:  ",setdir)
         except:
@@ -185,14 +184,14 @@ def filesRefs():
         #https://github.com/run-llama/llama_index/blob/main/docs/examples/data_connectors/simple_directory_reader_remote_fs.ipynb
 
         # build index
-        try:
-            index = VectorStoreIndex.from_documents(documents)
-            print( "Created VectorStoreIndex")
-            # persist index
-            index.storage_context.persist(persist_dir='./storage/ev_vec_idx')
-            print(f"Loaded {len(documents)} documents")
-        except:
-            print("Loading of documents failed for vector store index")
+      
+    index = VectorStoreIndex.from_documents(documents)
+    print( "Created VectorStoreIndex")
+    # persist index
+    index.storage_context.persist(persist_dir='./storage/ev_vec_idx')
+    print(f"Loaded {len(documents)} documents")
+
+    #print("Loading of documents failed for vector store index")
     #It is unclear to me why there are so many documents
     #Currently three documents are not indexed. I think there's a Captcha check box
   

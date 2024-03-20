@@ -35,16 +35,22 @@ def do_imports():  # imports and keys
   df = pd
 # %%
 def supply_chain_summary():
+  import matplotlib.pyplot as plt
+  import seaborn as sns
+  import numpy as np
+  import pandas as pd
+  from pandasai import SmartDatalake
+  from pandasai.llm import OpenAI
   prompt = ""
   print("\n\nSupply Chain Summary Fuel Cells =================================================\n")
-  prompt = "Summarize Supply Chain impacts of Fuel Cell Cars"
+  prompt = "create a table of Summarize Supply Chain impacts of Fuel Cell Cars into a table"
 
   response = gptrequest(prompt)
   table_out = response.choices[0].message.content
   print(table_out)
   df = table_out
-  print("Count:=========================  " )
-  print(df.count)
+  print("supplychains of Fuel Cars=========================  " )
+  #print(df.count)
   print(df)
   return(table_out)
 
@@ -52,7 +58,7 @@ def supply_chain_summary():
 # %%
 def Supply_Chain_Summary_Electric():
   print("\n\nSupply Chain Summary Electric Cars=================================================\n")
-  prompt = "Summarize Supply Chain impacts of Electric cars"
+  prompt = "create a table of Summarize Supply Chain impacts of Electric cars"
   print("\n\n prompt:  " + prompt)
   response = gptrequest(prompt)
   table_out = response.choices[0].message.content
@@ -68,7 +74,6 @@ def Supply_Chain_Summary_Electric():
 def Environmental_Impacts():
   print("\n\nSecond Question Environmental Impact Comparison =================================================\n")
   prompt = "create a table of a comparison between environmental impacts of fuel cell cars vs electric vehicles"
-  ###prompt = "create a table in JSON format of a comparison between environmental impacts of fuel cell cars vs electric vehicles"
   print("\n\n prompt:  " + prompt)
   response = gptrequest(prompt)
   table_out = response.choices[0].message.content
@@ -81,22 +86,17 @@ def Environmental_Impacts():
   ###df.sort_values(by=['aspect'], inplace=True)
   ###plt.show()
   ###print("\n\nDataframe print=========================  \n\n" )
-  ###print(df)
+  print(table_out)
 
 # %%
 def Supply_Chain_Elements_Comparison():  
+  
   print("\n\nThird Question Supply chain element Comparison =================================================\n")
   prompt = "create a table of a comparison between Manufacturing Process of fuel cell cars vs electric vehicles"
   print("\n\n prompt:  " + prompt)
   response = gptrequest(prompt)
 
   table_out = response.choices[0].message.content
-  ###print(table_out)
-  from pandasai import SmartDataframe
-  from pandasai.llm import OpenAI
-
-  from pandasai import SmartDataframe
-  from pandasai.llm import OpenAI
-  sdf = SmartDataframe
-  ###df = sdf..DataFrame(response)
+  ###sdf = SmartDataframe
   print(table_out)
+  

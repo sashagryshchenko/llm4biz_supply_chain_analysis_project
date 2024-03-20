@@ -1,3 +1,4 @@
+
 # %%
 import EnvSettings as settings
 openai_key = settings.set_key()
@@ -13,19 +14,17 @@ print(table_out)
 answer = deb.supply_chain_summary()
 print(answer)
 deb.Environmental_Impacts()
-
+print("\n\nSupply_Chain_Elements_Comparison")
 deb.Supply_Chain_Elements_Comparison()
+
 ### Visualizationsfrom Beenish
 # %%
 import EnvSettings as settings
 openai_key = settings.set_key()
-###from openai import OpenAI
-import Tech16FinalProject_supplychains as deb
 import Visualizations as vis
 from utils import *
 vis.visImports()
 vis.plotResults()
-import Visualizations as vis
 vis.envireImpactComparison()
 vis.efficiencyComparison()
 vis.envireImpactElementsComparison
