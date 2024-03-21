@@ -111,9 +111,7 @@ def envireImpactElementsComparison():
     import seaborn as sns
     import numpy as np   
     bar_width = 0.35
-    criteria = ['Energy Source', 'Efficiency', 'Refueling Infrastructure', 'Emissions',
-                'Supply Chain Complexity', 'Resource Use', 'Energy Storage',
-                'Vehicle Range', 'Costs']
+
     factors = ['Greenhouse Gas Emissions', 'Air Pollution', 'Energy Efficiency', 'Resource Use',
             'Infrastructure', 'Vehicle Range and Refueling', 'Cost', 'Water Emission', 'Lifecycle Analysis']
     fuel_cell_scores_env = [3, 3, 2, 2, 2, 3, 2, 3, 2]  # Example scores for fuel cell cars
@@ -122,7 +120,7 @@ def envireImpactElementsComparison():
     plt.barh(np.arange(len(factors)) + bar_width/2, electric_vehicle_scores_env, bar_width, color='red', label='Electric Vehicles (Env)', alpha=0.6)
     
     plt.xlabel('Score')
-    plt.yticks(np.arange(len(criteria)), criteria)
+    plt.yticks(np.arange(len(factors)), factors)
     plt.title('Supply Chain and Environmental Elements Impact Comparison: Fuel Cell Cars vs Electric Vehicles')
     print("envireImpactElementsComparison Plotting")
     plt.legend()
